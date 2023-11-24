@@ -1,4 +1,4 @@
-# Anchor: Kaustubh Khare (kaustubh@peopleplus.ai)
+> Anchor: Kaustubh Khare (kaustubh@peopleplus.ai)
 
 # Collective Hope/ Dream
 ## Vision/ Dream: Fostering Open Collaboration for a +ai Future
