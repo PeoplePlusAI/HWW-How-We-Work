@@ -19,10 +19,10 @@
 - [ ] Define process for volunteer onboarding experience - Nov 30
 
 # Problem Statement/ Hypothesis
-Hypothesis 1: There are many talented and passionate people who would want to contribute to the vision of a +ai India
-Hypothesis 2: Open source culture of collaborating can be extended beyond just coding and shipping tech.
-Hypothesis 3: If people+ai becomes a central clearing house for ideas/ approvals/ connections, it will slow-down and choke the ecosystem.
-Hypothesis 4: If we test and build a combination of tools + norms that enable collaboration, the number of projects/ experiments that can be nurtured increases dramatically.
+- **Hypothesis 1:** There are many talented and passionate people who would want to contribute to the vision of a +ai India
+- **Hypothesis 2:** Open source culture of collaborating can be extended beyond just coding and shipping tech.
+- **Hypothesis 3:** If people+ai becomes a central clearing house for ideas/ approvals/ connections, it will slow-down and choke the ecosystem.
+- **Hypothesis 4:** If we test and build a combination of tools + norms that enable collaboration, the number of projects/ experiments that can be nurtured increases dramatically.
 
 # Open Questions
 > To be updated
