@@ -1,2 +1,6 @@
 # Open Tasks
-> A list of help that the group is requesting from the community. This can include anything from requests for introductions, references, volunteer tasks etc. Make it easy for the [P+ai] community members to pick up tasks and contribute to the group.
+> Each of these will be setup as issues OR discussion and linked here. Simply comment with your labour/ offer to help! Alternatively, email kaustubh@peopleplus.ai
+- [ ] Figuring out Public/ Private pages in GitBook and sync to one or multiple GitHub Repositories
+- [ ] Basic ai bot that takes a Weekly Update from Anchor Volunteers and updates the appropriate Repo's timeline.md doc
+- [ ] Automating aggregation of open tasks from Help_Needed of multiple such group.
+- [ ] Suggestions/ Tips for Working Groups' GitHub Repo's more readable & engaging.
