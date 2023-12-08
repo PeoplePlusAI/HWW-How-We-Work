@@ -8,28 +8,28 @@ description: >-
 
 These core-values are not just esoteric ideals but inform how we are organised/ structure, how we interact and the tools we use.
 
-## Purpose Driven
+## 1. Purpose Driven
 
 * We believe technology, especially ai, will cause paradigm shifts that can help India & its people reach their potential.
 * A vision for such an India is defined and refined by the [Adhbhut India initiative](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/LYxrjqJDg0sJzSucIHRS/).
 * Our singular focus is to discover, demonstrate and disseminate population-scale use-cases for ai in India.
 * Fame, money, influence etc. are a means to achieve our purpose not an end in itself.
 
-## Ecological Mindset
+## 2. Ecological Mindset
 
 * We are not doing this alone. We truly believe that achieving this purpose and reaching potential will take a forest.
 * We are uniquely placed at the crossroads of sarkaar, samaaj, bazaar. We will always be a small team aiming for disproportional impact from this unique location.
 * We want to cultivate a network of partners and volunteers organisations, doers, dreams and tinkerers.
 * Thriving ecologies evolve over multiple generations. We learn from the past, act in the present and, document in for future generations of volunteers.
 
-## Bias to Action
+## 3. Bias to Action
 
 * The best way to learn is by doing. Our biggest regret would be that we spoke a lot about ai but didn’t DO much.
 * Imperfect and incomplete action is valued more than long-drawn rumination in pursuit of an ideal.
 * Adoption trumps everything else. Adoption of ideas, goals, tools, processes, all of it.
 * Actions no matter how small or large are acknowledged and attributed.&#x20;
 
-## For the Public, In Public
+## 4. For the Public, In Public
 
 * We are trying to build awesome tech for the people and by the people.
 * We want to attract lots of amazing people to join. We also want to make it easy for people to volunteer and for the wider ecosystem to adopt and build on our work.
