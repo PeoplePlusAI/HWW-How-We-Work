@@ -11,7 +11,7 @@ These core-values are not just esoteric ideals but inform how we are organised/ 
 ## Purpose Driven
 
 * We believe technology, especially ai, will cause paradigm shifts that can help India & its people reach their potential.
-* A vision for such an India is defined and refined by the [Adhbhut India initiative](http://127.0.0.1:5000/o/-Mi9QwJlsfb7xuxTBc0J/s/LYxrjqJDg0sJzSucIHRS/).
+* A vision for such an India is defined and refined by the [Adhbhut India initiative](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/LYxrjqJDg0sJzSucIHRS/).
 * Our singular focus is to discover, demonstrate and disseminate population-scale use-cases for ai in India.
 * Fame, money, influence etc. are a means to achieve our purpose not an end in itself.
 
@@ -24,7 +24,7 @@ These core-values are not just esoteric ideals but inform how we are organised/ 
 
 ## Bias to Action
 
-* The best way to learn is by doing. 2yrs down the line, our biggest regret would be that we spoke a lot about ai but didn’t DO much.
+* The best way to learn is by doing. Our biggest regret would be that we spoke a lot about ai but didn’t DO much.
 * Imperfect and incomplete action is valued more than long-drawn rumination in pursuit of an ideal.
 * Adoption trumps everything else. Adoption of ideas, goals, tools, processes, all of it.
 * Actions no matter how small or large are acknowledged and attributed.&#x20;
