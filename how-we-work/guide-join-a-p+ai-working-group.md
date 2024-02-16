@@ -14,8 +14,8 @@ Working Groups maintain a charter in their GitHub repository and publish periodi
 * Explore the discussions on the group's GitHub repository. Catch-up on **open discussions** to get a feel of what's up in the group.
 * Each group also has a **timeline** file that logs the weekly journey of the group.
 
-{% content-ref url="../working-groups.md" %}
-[working-groups.md](../working-groups.md)
+{% content-ref url="../p+ai-working-groups.md" %}
+[p+ai-working-groups.md](../p+ai-working-groups.md)
 {% endcontent-ref %}
 
 ## Time and Energy Commitment

@@ -15,8 +15,8 @@ Working groups are self-organising groups of volunteers contributing towards a s
 * **Membership:** Volunteers from multiple organisations/ backgrounds/ expertise contribute to a groups goal. The formal members have committed consistent time and energy towards the group's goal.
 * **Contributing:** Anyone (not just the formal members) can contribute by responding to a groups calls for help. The membership of a group can be floating. To tap into talent and energy, we try to make it easy for people to contribute AND easy for people to hand-over and leave.
 
-{% content-ref url="../working-groups.md" %}
-[working-groups.md](../working-groups.md)
+{% content-ref url="../p+ai-working-groups.md" %}
+[p+ai-working-groups.md](../p+ai-working-groups.md)
 {% endcontent-ref %}
 
 ## Gardener-group

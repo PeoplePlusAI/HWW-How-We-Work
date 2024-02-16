@@ -2,7 +2,7 @@
 description: A guide to formally introduce your org to People + ai community
 ---
 
-# 🤝 {Guide} Connect your Org to People+AI
+# 🤝 Connect your Org to People+AI
 
 ## Introducing your Organisation to P+ai
 

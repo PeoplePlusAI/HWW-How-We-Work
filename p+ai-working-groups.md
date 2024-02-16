@@ -24,7 +24,7 @@ layout:
     visible: true
 ---
 
-# 💡 \[P+AI] Working Groups
+# 💡 Working Groups
 
 ## Working Groups Project List
 

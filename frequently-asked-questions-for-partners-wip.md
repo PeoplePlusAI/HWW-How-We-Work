@@ -1,4 +1,4 @@
-# ❓ Frequently Asked Questions for Volunteers \[WIP]
+# ❓ Frequently Asked Questions for Partners \[WIP]
 
 ## Partners
 
