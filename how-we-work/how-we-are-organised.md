@@ -15,8 +15,8 @@ Working groups are self-organising groups of volunteers contributing towards a s
 * **Membership:** Volunteers from multiple organisations/ backgrounds/ expertise contribute to a groups goal. The formal members have committed consistent time and energy towards the group's goal.
 * **Contributing:** Anyone (not just the formal members) can contribute by responding to a groups calls for help. The membership of a group can be floating. To tap into talent and energy, we try to make it easy for people to contribute AND easy for people to hand-over and leave.
 
-{% content-ref url="../p+ai-working-groups.md" %}
-[p+ai-working-groups.md](../p+ai-working-groups.md)
+{% content-ref url="../working-groups.md" %}
+[working-groups.md](../working-groups.md)
 {% endcontent-ref %}
 
 ## Gardener-group
@@ -24,7 +24,7 @@ Working groups are self-organising groups of volunteers contributing towards a s
 The gardener-group is a small team of full-time employees of People+ai. There are three key ecosystem functions that this group performs:
 
 * **Pollinators:** Celebrate heroes and wins, bring visibility to working groups, attract partners and volunteers
-* **Mycelium:** Enrich the soil by effectively articulating a [vision for the country.](http://127.0.0.1:5000/o/-Mi9QwJlsfb7xuxTBc0J/s/LYxrjqJDg0sJzSucIHRS/) Channelise resources and build partnerships across the network.
+* **Mycelium:** Enrich the soil by effectively articulating a [vision for the country.](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/LYxrjqJDg0sJzSucIHRS/) Channelise resources and build partnerships across the network.
 * **Janitorial:** We want volunteers to spend minimal time and energy on management overheads. We equip working-groups with tools, SOPs and guides to make starting and running a working-group extremely smooth and easy.
 
 ## Hosted at EkStep
