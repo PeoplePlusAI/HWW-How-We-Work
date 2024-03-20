@@ -4,7 +4,7 @@ description: >-
   yourself in the people+ai community.
 ---
 
-# 🖐 Contributing to the Community
+# 🖐️ Contributing to the Community
 
 We believe technology, especially ai, will cause paradigm shifts that can help India & its people reach their potential. We are organised as an ecology of working-groups and fuelled by purpose driven volunteer energy.
 
@@ -28,7 +28,6 @@ We believe technology, especially ai, will cause paradigm shifts that can help I
 
 ## Join our Public Events
 
-* Every year People+ai will host 4 campsites.&#x20;
-* Campsites are an opportunity for the community to come together, celebrate wins, learn from failures and draw inspiration from each other.&#x20;
-* If you'd like to get a feel of the community, join in for the next campsite!
-* Subscribe to our newsletter for updates on the same.
+* **Campsite:** Every year People+ai hosts an ecosystem campsite. Campsites are an opportunity for the community to come together, celebrate wins, learn from failures, and draw inspiration from each other.&#x20;
+* **Masterclasses:** Organised masterclasses by key leads in technology and impact in India. Open to all community members.
+* **Demo Days:** Demo Days are monthly sessions where different working group teams present their POC to the wider People+ai community to get feedback and find potential collaborations and further use cases.
