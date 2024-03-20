@@ -56,10 +56,10 @@ This approach is central to our [**Theory of Change**](#user-content-fn-1)[^1] w
 
 ## Stay Updated
 
-* Subscribe to our newsletter for updates and opportunities to collaborate/ contribute \<link>.
-* You will find our latest thinking on our blog \<link>.
-* We host in-person campsites and workshops on various themes related to harnessing ai in service of humanity.
-* Follow us on linked-in, twitter for updates on the same.
+* [Subscribe to our newsletter](https://tally.so/r/w591xb) for updates and opportunities to collaborate/contribute.
+* You will find our latest thinking on our [blog](https://peopleplus.ai/media).
+* We host in-person campsites and workshops on various themes related to harnessing ai in service of humanity - here's [where you can sign-up](https://tally.so/r/w591xb) to receive invites to relevant events.
+* Follow us on [LinkedIn](https://www.linkedin.com/company/people-ai/) & [Twitter](https://twitter.com/PeoplePlusAI) for updates!
 
 [^1]: \<Link to be added>
 
